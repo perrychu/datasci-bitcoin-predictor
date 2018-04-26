@@ -14,6 +14,7 @@ The volatility in Bitcoin price makes this a tough problem, but also a good envi
 * **Bitcoin_EDA_Classification.ipynb** - (Tentative / work in progress) Time series modeling treating prediction as a classification of next day direction only (up or down)
 * **Bitcoin_EDA_Regression_v3.ipynb** - Time series modeling to predict price using regression (linear + trees) and LSTM on multiple features
 * **Bitcoin_Scrape_Google_Trends.ipynb** - Google trends "scraper" using Pytrends + logic to connect daily relative values using weekly relative index (Google only provides daily values up to 90-day periods, longer periods are weekly data only).
+* **all.zip** - Zip file of cryptocurrency histories as of early April. [Source](https://coinmetrics.io/data-downloads/)
 
 #### Docs
 * **Bitcoin_Price_Pres.pdf** - Presentation slides
